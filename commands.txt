@@ -1,0 +1,6 @@
+\color - randomly change the color scheme
+\colordefault - change the color scheme to the default blue
+\menu - show the main blurb again
+\commands - show this screen
+\gas - calculate most efficient place to get gas
+	(Make sure that you use the Eclipse console after typing this) 

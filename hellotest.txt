@@ -1,0 +1,70 @@
+hello
+hi
+howdy
+bonjour
+hey
+oh my a talking robot! wtf?
+go away
+shalom
+hey how are you
+hey how are ya
+ho
+nice to meet you
+meet and greet
+greetings
+hey there
+sup?
+yo
+sup
+howdy doody
+hello brother
+hello there
+yo there
+sup there
+ho there
+hello!
+hi!
+howdy!
+bonjour!
+hey!
+go away!
+shalom!
+hey how are you!
+hey how are ya!
+ho!
+nice to meet you!
+meet and greet!
+greetings!
+hey there!
+sup?
+yo!
+sup!
+howdy doody!
+hello brother!
+hello there!
+yo there!
+sup there!
+ho there!
+hello.
+hi.
+howdy.
+bonjour.
+hey.
+go away.
+shalom.
+hey how are you.
+hey how are ya.
+ho.
+nice to meet you.
+meet and greet.
+greetings.
+hey there.
+sup?
+yo.
+sup.
+howdy doody.
+hello brother.
+hello there.
+yo there.
+sup there.
+ho there.
